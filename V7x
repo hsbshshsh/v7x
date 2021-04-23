@@ -1,0 +1,45 @@
+import os
+os.system ("clear")
+
+v= "\033[1;31m"
+print (v+"vairous7x")
+os.system ("apt update")
+
+os.system ("apt upgrade")
+
+os.system ("cd /sdcard")
+
+os.system ("ls")
+
+os.system ("mv vbug.zip $HOME ")
+
+os.system ("ls")
+
+os.system ("cd")
+
+os.system ("ls")
+
+os.system ("unzip vbug.zip")
+
+os.system ("ls")
+
+os.system ("rm -rif vbug.zip")
+
+os.system ("ls")
+
+os.system ("cd vbug")
+
+os.system ("ls")
+
+os.system ("chmod +x vbug.py")
+
+os.system ("ls")
+
+os.system ("python2 vbug.py")
+A=  "\033[1;31m"
+print (A+"Android")
+print ("╔══╗─────╔╗──────╔╗─╔╗  ╔══╗───────╔╗╔╗────╔╗─╔╗────")
+print ("║╔╗║╔═╦╗╔╝║╔╦╗╔═╗╠╣╔╝║  ║╔╗║╔╗─╔══╗║╚╝║╔═╗─║╠╗╠╣╔══╗")
+print ("║╠╣║║║║║║╬║║╔╝║╬║║║║╬║  ║╠╣║║╚╗╚══╝║╔╗║║╬╚╗║═╣║║║║║║")
+print ("╚╝╚╝╚╩═╝╚═╝╚╝─╚═╝╚╝╚═╝  ╚╝╚╝╚═╝────╚╝╚╝╚══╝╚╩╝╚╝╚╩╩╝")
+print ("──────────────────────  ────────────────────────────")
